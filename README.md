@@ -1,3 +1,10 @@
+#Result
+
+To check the result of the code, please check the below given link
+
+https://nikhildongare9491.github.io/react-context/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
